@@ -1,4 +1,3 @@
-Ini, TOML
 [server]
 headless = true
 enableCORS = false
